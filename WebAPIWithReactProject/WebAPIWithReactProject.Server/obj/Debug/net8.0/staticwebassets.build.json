@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "AkstVcCIEVqWEQAn2qcIU/TAa58+0o39DFMLdJWb/bI=",
+  "Source": "WebAPIWithReactProject.Server",
+  "BasePath": "_content/WebAPIWithReactProject.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\sonit\\OneDrive\\Documents\\Project\\Bookkeeping_ReactDotNet\\WebAPIWithReactProject\\webapiwithreactproject.client\\webapiwithreactproject.client.esproj",
+      "Version": 2,
+      "Source": "webapiwithreactproject.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

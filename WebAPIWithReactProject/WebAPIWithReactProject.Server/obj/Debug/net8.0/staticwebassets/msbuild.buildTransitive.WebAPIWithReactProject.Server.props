@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebAPIWithReactProject.Server.props" />
+</Project>

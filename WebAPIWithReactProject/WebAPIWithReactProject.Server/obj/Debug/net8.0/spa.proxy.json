@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\sonit\\OneDrive\\Documents\\Project\\Bookkeeping_ReactDotNet\\WebAPIWithReactProject\\WebAPIWithReactProject.Server\\..\\webapiwithreactproject.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,1 @@
+C:\Users\sonit\OneDrive\Documents\Project\Bookkeeping_ReactDotNet\WebAPIWithReactProject\webapiwithreactproject.client\obj\Debug\webapiwithreactproject.client.esproj.CoreCompileInputs.cache
